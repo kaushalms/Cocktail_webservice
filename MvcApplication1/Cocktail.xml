@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cocktail>
+  <recipe title="Dry Martini">
+    <title>Dry Martini</title>
+    <type>Classic</type>
+    <ingredient quantity="3" measure="oz">Beefeater Gin</ingredient>
+    <ingredient quantity="1" measure="oz">Dry vermouth</ingredient>
+    <ingredient quantity="1" measure="dash">Orange Bitters</ingredient>
+    <ingredient quantity="3" measure="oz">Beefeater Gin</ingredient>
+    <step>Add Ingredients to Glass;Fill with Ice;Stir;Strain in to chilled Cocktail glass;Garnish with a lemon twist</step>
+    <glass>Cocktail</glass>
+    <garnish>Lemon Twist</garnish>
+    <strength>Strong</strength>
+    <preparation>Stirred</preparation>
+  </recipe>
+  <recipe title="1942 Martini">
+    <title>1942 Martini</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Tequila</ingredient>
+    <ingredient quantity="1" measure="oz">Dry vermouth</ingredient>
+    <ingredient quantity="1" measure="peel">Orange</ingredient>
+    <step>Add Ingredients to Shaker;Fill with Ice;Shake;Strain in to chilled Martini glass;Garnish with an orange peel</step>
+    <glass>Martini</glass>
+    <garnish>Orange Peel</garnish>
+    <strength>Strong</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Screwdriver">
+    <title>Screwdriver</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Vodka</ingredient>
+    <ingredient quantity="2" measure="oz">Orange Juice</ingredient>
+    <step>Add vodka to highball glass;Fill with Ice;Top with orange juice</step>
+    <glass>Highball</glass>
+    <garnish>None</garnish>
+    <strength>Medium</strength>
+    <preparation>None</preparation>
+  </recipe>
+  <recipe title="THE BASIL FIZZ">
+    <title>THE BASIL FIZZ</title>
+    <type>Classic</type>
+    <ingredient quantity="1" measure="oz">Basil Haydens Bourbon</ingredient>
+    <ingredient quantity="4" measure="oz">Champagne</ingredient>
+    <step>Add Basil Hayden's Bourbon to Flute glass;Add Champagne;Fill with Ice</step>
+    <glass>Flute</glass>
+    <garnish>None</garnish>
+    <strength>Medium</strength>
+    <preparation>None</preparation>
+  </recipe>
+  <recipe title="MANHATTAN">
+    <title>MANHATTAN</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Rye Whiskey</ingredient>
+    <ingredient quantity="1" measure="oz">Sweet vermouth</ingredient>
+    <ingredient quantity="5" measure="drops">Angostura Bitters</ingredient>
+    <step>Add all the ingredients to a mixing  glass;Fill with Ice; Stir well and strain into a chilled cocktail glass;Garnish with a cherry.</step>
+    <glass>Cocktail</glass>
+    <garnish>Cherry</garnish>
+    <strength>Medium</strength>
+    <preparation>Stirred</preparation>
+  </recipe>
+  <recipe title="Champagne">
+    <title>Champagne</title>
+    <type>Classic</type>
+    <ingredient quantity="1" measure="piece">Sugar Cube</ingredient>
+    <ingredient quantity="2" measure="dash">Angostura Bitters Champagne</ingredient>
+    <step>Add Champagne to Flute glass;Place the sugar cube on a spoon and douse with bitters;Garnish with a lemon twist</step>
+    <glass>Flute</glass>
+    <garnish>Lemon</garnish>
+    <strength>Medium</strength>
+    <preparation>Stirred</preparation>
+  </recipe>
+  <recipe title="TOUGH TO HEAR">
+    <title>TOUGH TO HEAR</title>
+    <type>Classic</type>
+    <ingredient quantity="1" measure="oz">St-Germain</ingredient>
+    <ingredient quantity="1" measure="oz">Leopold Brothers</ingredient>
+    <ingredient quantity="1" measure="oz">Lime Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a shot glass</step>
+    <glass>Shot</glass>
+    <garnish>Lemon</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Kamikaze">
+    <title>Kamikaze</title>
+    <type>Shots</type>
+    <ingredient quantity="2" measure="oz">Vodka</ingredient>
+    <ingredient quantity="1" measure="oz">Triple sec</ingredient>
+    <ingredient quantity="1" measure="oz">Lime Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a chilled cocktail glass</step>
+    <glass>Cocktail</glass>
+    <garnish>None</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="B-52">
+    <title>B-52</title>
+    <type>Shots</type>
+    <ingredient quantity="1" measure="oz">Kahlua</ingredient>
+    <ingredient quantity="1" measure="oz">Baileys</ingredient>
+    <ingredient quantity="1" measure="oz">Grand Marnier</ingredient>
+    <step>Layer the three spirits in a shot glass in the order that they are listed</step>
+    <glass>Shot</glass>
+    <garnish>Lemon</garnish>
+    <strength>Strong</strength>
+    <preparation>None</preparation>
+  </recipe>
+  <recipe title="AN EARLY TASTE OF SPRING">
+    <title>AN EARLY TASTE OF SPRING</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Dry vermouth</ingredient>
+    <ingredient quantity="1" measure="oz">Bénédictine</ingredient>
+    <ingredient quantity="1" measure="oz">Lime Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into chilled cocktail glass</step>
+    <glass>Cocktail</glass>
+    <garnish>None</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Sex on the beach">
+    <title>Sex on the beach</title>
+    <type>Tropical</type>
+    <ingredient quantity="2" measure="oz">Vodka</ingredient>
+    <ingredient quantity="1" measure="oz">Peach schnapps</ingredient>
+    <ingredient quantity="1" measure="oz">Orange Juice</ingredient>
+    <ingredient quantity="1" measure="oz">Cranberry Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a highball glass;Garnish with an orange wheel</step>
+    <glass>Highball</glass>
+    <garnish>1 Orange wheel</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="COSMOPOLITAN">
+    <title>COSMOPOLITAN</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Vodka</ingredient>
+    <ingredient quantity="1" measure="oz">Cointreau</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="1" measure="dashes">Cranberry Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into chilled cocktail glass;Garnish with a lime wedge.</step>
+    <glass>Cocktail</glass>
+    <garnish>Lime wedge</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Mojito">
+    <title>Mojito</title>
+    <type>Tropical</type>
+    <ingredient quantity="6" measure="leaves">Mint</ingredient>
+    <ingredient quantity="1" measure="oz">Simple syrup</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="2" measure="oz">White rum</ingredient>
+    <ingredient quantity="2" measure="oz">Club soda</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and pour (unstrained) into a highball glass.;Garnish with a mint sprig.</step>
+    <glass>Highball</glass>
+    <garnish>Mint sprig</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="POINT REYES PUNCH">
+    <title>POINT REYES PUNCH</title>
+    <type>Punches</type>
+    <ingredient quantity="1" measure="oz">Dry Vermouth</ingredient>
+    <ingredient quantity="1" measure="oz">Dry white rum</ingredient>
+    <ingredient quantity="1" measure="oz">Pineapple Juice</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a coupe.</step>
+    <glass>Coupe</glass>
+    <garnish>Lime wedge</garnish>
+    <strength>Light</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Lagerita">
+    <title>Lagerita</title>
+    <type>Margaritas</type>
+    <ingredient quantity="2" measure="oz">Cabeza Tequila</ingredient>
+    <ingredient quantity="1" measure="oz">Cointreau</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="4" measure="oz">Modelo Especial Beer</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into the prepared glass;Top with the beer;Garnish with a lime wheel</step>
+    <glass>Highball</glass>
+    <garnish>Lime wheel</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="ROOSTER-TAIL">
+    <title>ROOSTER-TAIL</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Peach brandy</ingredient>
+    <ingredient quantity="1" measure="oz">Rainwater Madeira</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="4" measure="oz">Raspberry syrup</ingredient>
+    <ingredient quantity="4" measure="oz">Peychauds Bitters</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a small goblet filled with fresh cracked ice;Garnish with a mint sprig and a raspberry</step>
+    <glass>Small Gobletet</glass>
+    <garnish>Mint Sprig and Raspberry</garnish>
+    <strength>Strong</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="SMASHING PUMPKIN">
+    <title>SMASHING PUMPKIN</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Pyrat Rum</ingredient>
+    <ingredient quantity="1" measure="oz">Allspice liqueur</ingredient>
+    <ingredient quantity="3" measure="oz">Lemon-Pumpkin Soda</ingredient>
+    <step>Add the rum and allspice liqueur to a Collins glass;Fill with Ice;Top with the Lemon-Pumpkin Soda;Garnish with a bay leaf</step>
+    <glass>Collins</glass>
+    <garnish>Bay Leaf</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="DAIQUIRI">
+    <title>DAIQUIRI</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Dark Rum</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="1" measure="oz">Simple syrup</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a chilled Martini glass;Garnish with a lime wheel</step>
+    <glass>Martini</glass>
+    <garnish>Lime Wheel</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Brazilian">
+    <title>Brazilian</title>
+    <type>Tropical</type>
+    <ingredient quantity="2" measure="oz">Vodka</ingredient>
+    <ingredient quantity="1" measure="oz">Blueberry Juice</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a chilled Martini glass;Garnish with a lime wheel</step>
+    <glass>Martini</glass>
+    <garnish>Lime Wheel</garnish>
+    <strength>Medium</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+  <recipe title="Gimlet">
+    <title>Gimlet</title>
+    <type>Classic</type>
+    <ingredient quantity="2" measure="oz">Gin</ingredient>
+    <ingredient quantity="1" measure="oz">Fresh lime Juice</ingredient>
+    <ingredient quantity="1" measure="oz">Simple syrup</ingredient>
+    <step>Add all the ingredients to a shaker;Fill with Ice;Shake, and strain into a chilled Cocktail glass;Garnish with a lime wheel</step>
+    <glass>Cocktail</glass>
+    <garnish>Lime Wheel</garnish>
+    <strength>Strong</strength>
+    <preparation>Shaken</preparation>
+  </recipe>
+</cocktail>
